@@ -18,7 +18,7 @@ const artworks = [
     description:
       "ترکیبی از رنگ، فرم و بافت که تصویری آرام و شاعرانه ایجاد می‌کند.",
 
-    tag: "MIXED MEDIA",
+    tag: "HANDMADE",
 
     /*
      * 02.jpg:
